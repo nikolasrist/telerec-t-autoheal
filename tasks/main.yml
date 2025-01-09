@@ -2,7 +2,7 @@
     name: compose_hull
   vars:
     service_defaults:
-      name:  autoheal
+      name: autoheal
       version: latest
       traefik: false
       external: false
